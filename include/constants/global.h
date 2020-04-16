@@ -29,7 +29,7 @@
 #define BAG_ITEMS_COUNT     42
 #define BAG_KEYITEMS_COUNT  30
 #define BAG_POKEBALLS_COUNT 13
-#define BAG_TMHM_COUNT      58
+#define BAG_TMHM_COUNT      128
 #define BAG_BERRIES_COUNT   43
 #define OBJECT_EVENT_TEMPLATES_COUNT 64
 
@@ -82,5 +82,7 @@
 #define DIR_SOUTHEAST   6
 #define DIR_NORTHWEST   7
 #define DIR_NORTHEAST   8
+
+#define MONEY_DIGITS    6
 
 #endif //GUARD_CONSTANTS_GLOBAL_H
