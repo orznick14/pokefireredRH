@@ -519,9 +519,11 @@ static void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
     StringCopy(gStringVar4, gText_FontSize0);
     if (itemId >= ITEM_HM01)
     {
-        u8 hmDigits = 1;
-        if (NUM_HIDDEN_MACHINES >= 10)
-            hmDigits = 2;
+        #if NUM_HIDDEN_MACHINES < 10
+            u8 hmDigits = 1;
+        #else
+            u8 hmDigits = 2;
+        #endif
         
         StringAppend(gStringVar4, sText_ClearTo18);
         StringAppend(gStringVar4, gOtherText_UnkF9_08_Clear_01);
@@ -530,9 +532,11 @@ static void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
     }
     else
     {
-        u8 tmDigits = 2;
-        if (NUM_TECHNICAL_MACHINES >= 100)
-            tmDigits = 3;
+        #if NUM_TECHNICAL_MACHINES < 100
+            u8 tmDigits = 2;
+        #else
+            u8 tmDigits = 3;
+        #endif
         
         StringAppend(gStringVar4, gOtherText_UnkF9_08_Clear_01);
         ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
