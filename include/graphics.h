@@ -3525,7 +3525,6 @@ extern const u32 gItemIcon_UtilityUmbrella[];
 extern const u32 gItemIconPalette_UtilityUmbrella[];
 extern const u32 gItemIcon_ThroatSpray[];
 extern const u32 gItemIconPalette_ThroatSpray[];
-/*
 //Mega stones
 extern const u32 gItemIcon_UltranecroziumZ[];
 extern const u32 gItemIconPalette_UltranecroziumZ[];
@@ -3638,7 +3637,6 @@ extern const u32 gItemIcon_WhiteApricorn[];
 extern const u32 gItemIconPalette_WhiteApricorn[];
 extern const u32 gItemIcon_BlackApricorn[];
 extern const u32 gItemIconPalette_BlackApricorn[];
-*/
 //Valuables
 extern const u32 gItemIcon_TinyMushroom[];
 extern const u32 gItemIconPalette_Mushroom[];
@@ -3663,7 +3661,6 @@ extern const u32 gItemIcon_CometShard[];
 extern const u32 gItemIconPalette_CometShard[];
 extern const u32 gItemIcon_BalmMushroom[];
 extern const u32 gItemIconPalette_BalmMushroom[];
-/*
 //Mints
 extern const u32 gItemIcon_Mint[];
 extern const u32 gItemIconPalette_RedMint[];
@@ -3898,7 +3895,6 @@ extern const u32 gItemIcon_WishingPiece[];
 extern const u32 gItemIconPalette_WishingPiece[];
 extern const u32 gItemIcon_Honey[];
 extern const u32 gItemIconPalette_Honey[];
-*/
 //Fossils
 extern const u32 gItemIcon_HelixFossil[];
 extern const u32 gItemIcon_DomeFossil[];
@@ -3908,7 +3904,6 @@ extern const u32 gItemIconPalette_OldAmber[];
 extern const u32 gItemIcon_RootFossil[];
 extern const u32 gItemIcon_ClawFossil[];
 extern const u32 gItemIconPalette_HoennFossil[];
-/*
 extern const u32 gItemIcon_ArmorFossil[];
 extern const u32 gItemIconPalette_ArmorFossil[];
 extern const u32 gItemIcon_SkullFossil[];
@@ -3921,7 +3916,6 @@ extern const u32 gItemIcon_JawFossil[];
 extern const u32 gItemIconPalette_JawFossil[];
 extern const u32 gItemIcon_SailFossil[];
 extern const u32 gItemIconPalette_SailFossil[];
-*/
 //Wings
 extern const u32 gItemIcon_HealthWing[];
 extern const u32 gItemIconPalette_HealthWing[];
@@ -3937,7 +3931,6 @@ extern const u32 gItemIcon_SwiftWing[];
 extern const u32 gItemIconPalette_SwiftWing[];
 extern const u32 gItemIcon_PrettyWing[];
 extern const u32 gItemIconPalette_PrettyWing[];
-/*
 //Nectars
 extern const u32 gItemIcon_RedNectar[];
 extern const u32 gItemIconPalette_RedNectar[];
@@ -3962,7 +3955,6 @@ extern const u32 gItemIcon_RelicStatue[];
 extern const u32 gItemIconPalette_RelicStatue[];
 extern const u32 gItemIcon_RelicCrown[];
 extern const u32 gItemIconPalette_RelicCrown[];
-*/
 //Contest
 extern const u32 gItemIcon_Scarf[];
 extern const u32 gItemIconPalette_RedScarf[];
@@ -4064,7 +4056,6 @@ extern const u32 gItemIconPalette_PowderJar[];
 extern const u32 gItemIcon_Gem[];
 extern const u32 gItemIconPalette_Ruby[];
 extern const u32 gItemIconPalette_Sapphire[];
-/*
 extern const u32 gItemIcon_OvalCharm[];
 extern const u32 gItemIconPalette_OvalCharm[];
 extern const u32 gItemIcon_ShinyCharm[];
@@ -4101,7 +4092,6 @@ extern const u32 gItemIcon_ZRing[];
 extern const u32 gItemIconPalette_ZRing[];
 extern const u32 gItemIcon_DynamaxBand[];
 extern const u32 gItemIconPalette_DynamaxBand[];
-*/
 
 // battle_anim_utility_funcs
 extern const u32 gFile_graphics_battle_anims_masks_curse_sheet[];
