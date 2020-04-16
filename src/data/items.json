@@ -2014,7 +2014,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_ADAMANT"
     },
     {
       "english": "BOLD MINT",
@@ -2030,7 +2030,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_BOLD"
     },
     {
       "english": "BRAVE MINT",
@@ -2046,7 +2046,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_BRAVE"
     },
     {
       "english": "CALM MINT",
@@ -2062,7 +2062,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_CALM"
     },
     {
       "english": "CAREFUL MINT",
@@ -2078,7 +2078,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_CAREFUL"
     },
     {
       "english": "GENTLE MINT",
@@ -2094,7 +2094,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_GENTLE"
     },
     {
       "english": "HASTY MINT",
@@ -2110,7 +2110,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_HASTY"
     },
     {
       "english": "IMPISH MINT",
@@ -2126,7 +2126,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_IMPISH"
     },
     {
       "english": "JOLLY MINT",
@@ -2142,7 +2142,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_JOLLY"
     },
     {
       "english": "LAX MINT",
@@ -2158,7 +2158,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_LAX"
     },
     {
       "english": "LONELY MINT",
@@ -2174,7 +2174,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_LONELY"
     },
     {
       "english": "MILD MINT",
@@ -2190,7 +2190,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_MILD"
     },
     {
       "english": "MODEST MINT",
@@ -2206,7 +2206,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_MODEST"
     },
     {
       "english": "NAIVE MINT",
@@ -2222,7 +2222,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_NAIVE"
     },
     {
       "english": "NAUGHTY MINT",
@@ -2238,7 +2238,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_NAUGHTY"
     },
     {
       "english": "QUIET MINT",
@@ -2254,7 +2254,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_QUIET"
     },
     {
       "english": "RASH MINT",
@@ -2270,7 +2270,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_RASH"
     },
     {
       "english": "RELAXED MINT",
@@ -2286,7 +2286,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_RELAXED"
     },
     {
       "english": "SASSY MINT",
@@ -2302,7 +2302,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_SASSY"
     },
     {
       "english": "SERIOUS MINT",
@@ -2318,7 +2318,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_SERIOUS"
     },
     {
       "english": "TIMID MINT",
@@ -2334,7 +2334,7 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Mints",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": "NATURE_TIMID"
     },
     {
       "english": "TINYMUSHROOM",
