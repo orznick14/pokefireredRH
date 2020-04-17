@@ -27,6 +27,7 @@
 #include "help_system.h"
 #include "field_fadetransition.h"
 #include "trade.h"
+#include "item.h"
 #include "constants/daycare.h"
 #include "constants/region_map_sections.h"
 
@@ -2175,18 +2176,18 @@ static void EggHatchPrintMessage(u8 windowId, u8* string, u8 x, u8 y, u8 speed)
 //NEW
 static u8 ModifyBreedingScoreForOvalCharm(u8 score)
 {
-	if (CheckBagHasItem(ITEM_OVAL_CHARM, 1))
-	{
-		switch (score)
+    if (CheckBagHasItem(ITEM_OVAL_CHARM, 1))
+    {
+        switch (score)
         {
-			case 20:
-				return 40;
-			case 50:
-				return 80;
-			case 70:
-				return 88;
-		}
-	}
+            case 20:
+                return 40;
+            case 50:
+                return 80;
+            case 70:
+                return 88;
+        }
+    }
     
     return score;
 }
