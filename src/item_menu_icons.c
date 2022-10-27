@@ -4,6 +4,8 @@
 #include "graphics.h"
 #include "item_menu_icons.h"
 #include "constants/items.h"
+#include "defines.h"
+#include "types.h"
 
 enum {
     TAG_BAG = 100,
@@ -33,7 +35,7 @@ enum {
     AFFINEANIM_BAG_IDLE,
     AFFINEANIM_BAG_SHAKE,
 };
- 
+
 static EWRAM_DATA u8 sItemMenuIconSpriteIds[SPR_COUNT] = {0};
 static EWRAM_DATA void *sItemIconTilesBuffer = NULL;
 static EWRAM_DATA void *sItemIconTilesBufferPadded = NULL;
