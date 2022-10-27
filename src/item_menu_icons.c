@@ -33,7 +33,7 @@ enum {
     AFFINEANIM_BAG_IDLE,
     AFFINEANIM_BAG_SHAKE,
 };
-
+ 
 static EWRAM_DATA u8 sItemMenuIconSpriteIds[SPR_COUNT] = {0};
 static EWRAM_DATA void *sItemIconTilesBuffer = NULL;
 static EWRAM_DATA void *sItemIconTilesBufferPadded = NULL;
