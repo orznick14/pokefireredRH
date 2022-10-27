@@ -1157,9 +1157,9 @@ void DestroyItemMenuIcon(u8 idx)
 
 const void *GetItemIconGfxPtr(u16 itemId, u8 attrId)
 {
-    if (itemId > ITEMS_COUNT)
+    if (itemId > ITEM_N_A)
         itemId = ITEM_NONE;
-    return sItemIconTable[itemId][attrId];
+    return sItemIconGfxPtrs[itemId][attrId];
 }
 
 void CreateBerryPouchItemIcon(u16 itemId, u8 idx)

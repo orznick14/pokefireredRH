@@ -148,6 +148,7 @@ const u8 gText_MaleSymbol[] = _("♂");
 const u8 gText_FemaleSymbol[] = _("♀");
 const u8 gText_Lv[] = _("{LV_2}");
 const u8 gText_NumberClear01[] = _("{NO}{CLEAR 0x01}");
+const u8 gOtherText_UnkF9_08_Clear_01[] = _("{NO}{CLEAR 0x01}");
 const u8 gText_Plus[] = _("{PLUS}");
 const u8 gText_Escape3[] = _("{ESCAPE 0x03}"); // Unused, RIGHT_ARROW in pokeemerald
 const u8 gText_IDNumber2[] = _("{ID}{NO}");
